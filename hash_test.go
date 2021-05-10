@@ -1,7 +1,7 @@
 package checksum_test
 
 import (
-	"github.com/codingsince1985/checksum"
+	"checksum"
 	"strings"
 	"testing"
 )

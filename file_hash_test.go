@@ -1,7 +1,7 @@
 package checksum_test
 
 import (
-	"github.com/codingsince1985/checksum"
+	"checksum"
 	"github.com/mitchellh/go-homedir"
 	"io/ioutil"
 	"os"

@@ -1,4 +1,4 @@
-module github.com/codingsince1985/checksum
+module checksum
 
 go 1.12
 
